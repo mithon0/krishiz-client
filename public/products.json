@@ -1,0 +1,256 @@
+ [
+      {
+        "id": 1,
+        "category": "Fertilizers",
+        "name": "NitroGrow",
+        "price": 29.99,
+        "ratings": 4.5,
+        "shortDetails": "High-quality nitrogen-rich fertilizer",
+        "image": "https://media-www.canadiantire.ca/product/seasonal-gardening/gardening/lawn-plant-care/0591406/golfgreen-nitrogrow-seed-fert-2kg-2-5-2-70d9f291-cae3-43a5-b5f0-e416baff298f-jpgrendition.jpg?imdensity=1&imwidth=1244&impolicy=gZoom"
+      },
+      {
+        "id": 2,
+        "category": "Pesticides",
+        "name": "BugShield",
+        "price": 19.99,
+        "ratings": 4.2,
+        "shortDetails": "Effective pesticide for insect control",
+        "image": "https://genuineessentialoils.com/cdn/shop/products/medicine-flower-essential-oils-bug-shield-mist-114ml-4-oz_grande.jpg?v=1543927323"
+      },
+      {
+        "id": 3,
+        "category": "Herbicides",
+        "name": "WeedAway",
+        "price": 24.99,
+        "ratings": 4.8,
+        "shortDetails": "Powerful herbicide for weed management",
+        "image": "https://organicagproducts.com/wp-content/uploads/2020/02/Weed-a-way-label.png"
+      },
+      {
+        "id": 4,
+        "category": "Fertilizers",
+        "name": "BioBoost",
+        "price": 34.99,
+        "ratings": 4.7,
+        "shortDetails": "Organic fertilizer enriched with essential nutrients",
+        "image": "https://lawnsynergy.com/cdn/shop/files/organic-fertilizer-5-3-0-bioboost-organic-fertilizer-for-lawn-33222029344906.png?v=1703606948&width=493"
+      },
+      {
+        "id": 5,
+        "category": "Pesticides",
+        "name": "SpiderGuard",
+        "price": 22.99,
+        "ratings": 4.0,
+        "shortDetails": "Spider repellent pesticide for crops",
+        "image": "https://caliponics.co.uk/wp-content/uploads/2022/12/Guard-n-Aid-Spider-Mite-250ml.jpg"
+      },
+      {
+        "id": 6,
+        "category": "Herbicides",
+        "name": "GrassMaster",
+        "price": 27.99,
+        "ratings": 4.3,
+        "shortDetails": "Selective herbicide for grass control",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2023/7/322326158/CO/DE/KX/84332089/grassmaster-glyphosate-41-sl-500x500.jpg"
+      },
+      {
+        "id": 7,
+        "category": "Fertilizers",
+        "name": "PlantVitalizer",
+        "price": 39.99,
+        "ratings": 4.6,
+        "shortDetails": "Promotes overall plant health",
+        "image": "https://greenspade.sg/wp-content/uploads/2021/03/WOO-COMMERCE-4-2.jpg"
+      },
+      {
+        "id": 8,
+        "category": "Herbicides",
+        "name": "WeedX",
+        "price": 26.99,
+        "ratings": 4.4,
+        "shortDetails": "Effective weed control solution",
+        "image": "https://3.imimg.com/data3/CP/JF/MY-1243638/weed-x-herbicide-500x500.jpg"
+      },
+      
+      {
+        "id": 9,
+        "category": "Fertilizers",
+        "name": "PowerGrow",
+        "price": 32.99,
+        "ratings": 4.5,
+        "shortDetails": "Advanced growth formula for plants",
+        "image": "https://example.com/powergrow.jpg"
+      },
+      {
+        "id": 10,
+        "category": "Pesticides",
+        "name": "FlyFree",
+        "price": 17.99,
+        "ratings": 4.1,
+        "shortDetails": "Fly repellent pesticide for farms",
+        "image": "https://m.media-amazon.com/images/I/61VMraegOCL._SL1500_.jpg"
+      },
+      {
+        "id": 11,
+        "category": "Herbicides",
+        "name": "GreenGuard",
+        "price": 21.99,
+        "ratings": 4.9,
+        "shortDetails": "Environment-friendly herbicide",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2023/4/298479038/FH/GH/KJ/122353901/green-guard-500x500.jpg"
+      },
+      {
+        "id": 12,
+        "category": "Fertilizers",
+        "name": "OrganicBoost",
+        "price": 36.99,
+        "ratings": 4.8,
+        "shortDetails": "Certified organic plant booster",
+        "image": "https://www.onestopgrowshop.co.uk/cdn/shop/files/811328_-_british_organic_bio_organic_boost.jpg?v=1701867135&width=1200"
+      },
+      {
+        "id": 13,
+        "category": "Fertilizers",
+        "name": "NitroGrow",
+        "price": 29.99,
+        "ratings": 4.5,
+        "shortDetails": "High-quality nitrogen-rich fertilizer",
+        "image": "https://media-www.canadiantire.ca/product/seasonal-gardening/gardening/lawn-plant-care/1590200/golfgreen-nitrogrow-extreme-condition-grass-seed-1-4kg-924a668f-34b6-4a10-94bd-2e123688c1d5-jpgrendition.jpg?imdensity=1&imwidth=1244&impolicy=gZoom"
+      },
+      {
+        "id": 14,
+        "category": "Pesticides",
+        "name": "BugShield",
+        "price": 19.99,
+        "ratings": 4.2,
+        "shortDetails": "Effective pesticide for insect control",
+        "image": "https://www.vetnpetdirect.com.au/cdn/shop/files/alto-lab-bjugshield-500mL_600x.jpg?v=1697783709"
+      },
+      {
+        "id": 15,
+        "category": "Herbicides",
+        "name": "WeedAway",
+        "price": 24.99,
+        "ratings": 4.8,
+        "shortDetails": "Powerful herbicide for weed management",
+        "image": "https://www.fertilome.com/ProductImages/large/10510-Weed-Out-Lawn-Weed-Killer-16oz.png"
+      },
+      {
+        "id": 16,
+        "category": "Fertilizers",
+        "name": "BioBoost",
+        "price": 34.99,
+        "ratings": 4.7,
+        "shortDetails": "Organic fertilizer enriched with essential nutrients",
+        "image": "https://badikheti-production.s3.ap-south-1.amazonaws.com/products/20221119145120237796651.jpg"
+      },
+      {
+        "id": 17,
+        "category": "Pesticides",
+        "name": "SpiderGuard",
+        "price": 22.99,
+        "ratings": 4.0,
+        "shortDetails": "Spider repellent pesticide for crops",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2022/4/BA/QR/NV/6709866/silicon-based-spreader-500x500.jpg"
+      },
+      {
+        "id": 18,
+        "category": "Herbicides",
+        "name": "GrassMaster",
+        "price": 27.99,
+        "ratings": 4.3,
+        "shortDetails": "Selective herbicide for grass control",
+        "image": "https://i.ebayimg.com/images/g/mMwAAOSwo~tjAutM/s-l1600.jpg"
+      }, {
+        "id": 19,
+        "category": "Fertilizers",
+        "name": "NitroGrow",
+        "price": 29.99,
+        "ratings": 4.5,
+        "shortDetails": "High-quality nitrogen-rich fertilizer",
+        "image": "https://media-www.canadiantire.ca/product/seasonal-gardening/gardening/lawn-plant-care/0591404/golfgreen-nitrogrow-sun-shade-1-5kg-1-0-0-657e1816-2804-4a79-9a3d-96b8e92feb54-jpgrendition.jpg?imdensity=1&imwidth=1244&impolicy=gZoom"
+      },
+      {
+        "id": 20,
+        "category": "Pesticides",
+        "name": "BugShield",
+        "price": 19.99,
+        "ratings": 4.2,
+        "shortDetails": "Effective pesticide for insect control",
+        "image": "https://www.thegreencollective.sg/cdn/shop/products/GSBugShieldBottle500ML.jpg?v=1604125435&width=800"
+      },
+      {
+        "id": 21,
+        "category": "Herbicides",
+        "name": "WeedAway",
+        "price": 24.99,
+        "ratings": 4.8,
+        "shortDetails": "Powerful herbicide for weed management",
+        "image": "https://www.imageforweeds.com/-/media/Project/OneWeb/ImageForWeeds/Images/products/2021/AllInOneLawnWeedKillerConcentrate_24oz.png"
+      },
+      {
+        "id": 22,
+        "category": "Fertilizers",
+        "name": "BioBoost",
+        "price": 34.99,
+        "ratings": 4.7,
+        "shortDetails": "Organic fertilizer enriched with essential nutrients",
+        "image": "https://m.media-amazon.com/images/I/41cDwdAUjSL._SY445_SX342_QL70_FMwebp_.jpg"
+      },
+      {
+        "id": 23,
+        "category": "Pesticides",
+        "name": "SpiderGuard",
+        "price": 22.99,
+        "ratings": 4.0,
+        "shortDetails": "Spider repellent pesticide for crops",
+        "image": "https://www.mgk.com/wp-content/uploads/2021/08/OneGuard_Gallon_Web.png"
+      },
+      {
+        "id": 24,
+        "category": "Herbicides",
+        "name": "GrassMaster",
+        "price": 27.99,
+        "ratings": 4.3,
+        "shortDetails": "Selective herbicide for grass control",
+        "image": "https://www.mitre10.com.au/media/catalog/product/M/F/MF01926.jpg?optimize=high&fit=bounds&height=840&width=840&canvas=840:840"
+      },
+      {
+        "id": 25,
+        "category": "Fertilizers",
+        "name": "PlantVitalizer",
+        "price": 39.99,
+        "ratings": 4.6,
+        "shortDetails": "Promotes overall plant health",
+        "image": "https://eastriding-15a42.kxcdn.com/imagecache/57e6eba4-5b52-47ea-a133-ae9f00d7f729/HB-101-100ml_600x622.png"
+      },
+      {
+        "id": 26,
+        "category": "Herbicides",
+        "name": "WeedX",
+        "price": 26.99,
+        "ratings": 4.4,
+        "shortDetails": "Effective weed control solution",
+        "image": "https://2.wlimg.com/product_images/bc-full/2023/1/4762476/1l-weed-x-organic-weed-killer-1674638051-6734540.jpeg"
+      },
+      {
+        "id": 27,
+        "category": "Fertilizers",
+        "name": "PowerGrow",
+        "price": 32.99,
+        "ratings": 4.5,
+        "shortDetails": "Advanced growth formula for plants",
+        "image": "https://example.com/powergrow.jpg"
+      },
+      {
+        "id": 28,
+        "category": "Pesticides",
+        "name": "FlyFree",
+        "price": 17.99,
+        "ratings": 4.1,
+        "shortDetails": "Fly repellent pesticide for farms",
+        "image": "https://m.media-amazon.com/images/I/81+DeiMHvuL._SL1500_.jpg"
+      }
+    ]
+  
+  
