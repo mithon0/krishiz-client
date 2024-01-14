@@ -60,7 +60,7 @@ const Medicineproducts = () => {
             <div className="flex gap-5 justify-center items-center mt-10">
                 <button onClick={()=>setLengthNum(lenghtNum+3)} className="px-4 py-2 rounded-lg bg-green-800 active:bg-black hover:bg-green-900 text-white text-3xl font-bold ">See More</button>
              {
-                lenghtNum>3?   <button onClick={()=>setLengthNum(lenghtNum-3)} className="px-4 py-2 rounded-lg bg-red-800 active:bg-black hover:bg-green-900 text-white text-3xl font-bold ">See less</button>:<></>
+                lenghtNum>3?   <button onClick={()=>setLengthNum(lenghtNum-3)} className="px-4 py-2 rounded-lg bg-red-800 active:bg-black hover:bg-red-900 text-white text-3xl font-bold ">See less</button>:<></>
              }
             </div>
         </div>

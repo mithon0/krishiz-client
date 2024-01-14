@@ -1,15 +1,20 @@
 import { useState } from "react";
 import { FaBars, FaShoppingCart, FaTimes } from "react-icons/fa";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import logo from "../../assets/logo.png";
 const Navber = () => {
     const [isOpen, setIsOpen] = useState(false)
     const [isSelected, setIsSelected] = useState("home")
+ const navigate =useNavigate()
 
+ const navigateToHome =()=>{
+    navigate("/")
+    setIsSelected("home")
+ }
     return (
         <div className="py-4 md:bg-green-100 flex justify-between px-3">
             <div>
-               <img className="w-52" src={logo} alt="" />
+                <img onClick={navigateToHome} className="w-52" src={logo} alt="" />
             </div>
             <div className={`md:flex hidden gap-10 items-center`}>
                 <ul className="flex gap-6 text-xl font-thin">

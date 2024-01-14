@@ -4,6 +4,7 @@ import "keen-slider/keen-slider.min.css"
 import { FaComment  } from "react-icons/fa";
 import SectionTitle from '../../Shared/SectionTitle';
 import { RotatingLines } from 'react-loader-spinner';
+import StarRatings from '../StarRatings/StarRatings';
 
 
 const Reviews = () => {
@@ -55,7 +56,7 @@ const [isLoading,setIsLoading]=useState(false)
                         <p className='flex gap-2 items-center text-slate-600'><FaComment className="text-2xl" />:{r?.comment}</p>
                        <div>
                        <h3 className='font-bold'>Date: <span className='text-slate-600'>{r?.date}</span></h3>
-                       <h1>ratings:{r?.rating}</h1>
+                       <h1 className='flex  items-center gap-2'>ratings:{r?.rating} <StarRatings ratings={r?.rating}/> </h1>
                        </div>
                 </div>)
             }
