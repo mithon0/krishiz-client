@@ -11,6 +11,7 @@ const Navber = () => {
     navigate("/")
     setIsSelected("home")
  }
+
     return (
         <div className="py-4 md:bg-green-100 flex justify-between px-3">
             <div>
@@ -25,8 +26,8 @@ const Navber = () => {
 
                 </ul>
                 <div className="flex items-center gap-2">
-                    <button className="px-4 py-3 bg-green-900 rounded-xl text-2xl font-bold text-white hover:bg-red-700 duration-500 active:bg-green-950">Login</button>
-                    <button className="px-4 py-3 border-2 border-green-800 rounded-xl text-2xl font-bold text-green-900 hover:bg-red-600 hover:text-white active:bg-green-950 duration-500 ">Signup</button>
+                    <button onClick={()=>{navigate("/login")}} className="px-4 py-3 bg-green-900 rounded-xl text-2xl font-bold text-white hover:bg-red-700 duration-500 active:bg-green-950">Login</button>
+                    <button onClick={()=>{navigate("/signup")}} className="px-4 py-3 border-2 border-green-800 rounded-xl text-2xl font-bold text-green-900 hover:bg-red-600 hover:text-white active:bg-green-950 duration-500 focus:bg-purple-600 ">Signup</button>
                 </div>
             </div>
             <div className="md:hidden block ">
