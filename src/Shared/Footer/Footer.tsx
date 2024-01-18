@@ -1,10 +1,11 @@
 
 import { useState } from 'react';
 import { FaFacebook, FaGooglePlus, FaInvision, FaTwitter, FaYoutube } from 'react-icons/fa';
-import { Link } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom';
 
 const Footer = () => {
-    const [isSelected,setIsSelected]=useState('home')
+  const location =useLocation()
+
     return (
        <div>
          <div className='w-full bg-slate-900 text-center pt-10 text-white px-52'>
@@ -24,9 +25,9 @@ const Footer = () => {
             </div>
             <div>
             <ul className="flex gap-6 text-xl font-thin">
-                    <li onClick={() => setIsSelected("home")}><Link to="/">Home</Link>{isSelected === "home" ? <hr className="border border-red-700" /> : <></>} </li>
-                    <li onClick={() => setIsSelected("about")}><Link to="/about">About</Link>{isSelected === "about" ? <hr className="border border-red-700" /> : <></>}</li>
-                    <li onClick={() => setIsSelected("products")}><Link to="/products">Products</Link>{isSelected === "products" ? <hr className="border border-red-700" /> : <></>}</li>
+                    <li ><Link to="/">Home</Link>{location.pathname === "/" ? <hr className="border border-red-700" /> : <></>} </li>
+                    <li ><Link to="/about">About</Link>{location.pathname === "/about" ? <hr className="border border-red-700" /> : <></>}</li>
+                    <li ><Link to="/products">Products</Link>{location.pathname === "/products" ? <hr className="border border-red-700" /> : <></>}</li>
                    
 
                 </ul>

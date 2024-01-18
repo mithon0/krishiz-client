@@ -14,7 +14,7 @@ const Cards = ({product}:any) => {
                   console.log(id)
             }
     return (
-        <div className="w-1/2 mx-auto h-[500px]" >
+        <div className="w-1/2 mx-auto my-10 h-[500px]" >
             <div>
                 <img className="w-[200px] h-[300px]" src={image} alt="" />
             </div>
@@ -28,7 +28,7 @@ const Cards = ({product}:any) => {
         <p>{ratings}</p>
        </div>
             <h1 className="text-3xl font-bold">Price:${price}</h1>
-                <button onClick={()=>addtocartHandler(id)} className="w-full py-1 bg-green-700 rounded-md text-white font-bold active:bg-black focus:bg-red-700 hover:bg-yellow-600">Add To cart</button>
+                <button onClick={()=>addtocartHandler(id)} className="w-full py-1 bg-green-700 rounded-md text-white font-bold active:bg-black focus:bg-red-700 hover:bg-yellow-600 duration-500">Add To cart</button>
             </div>
             
         </div>

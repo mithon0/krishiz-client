@@ -1,0 +1,195 @@
+[
+    {
+      "id": 1,
+      "name": "Sunflower Seeds",
+      "category": "Flowers",
+      "price": 2.99,
+      "ratings": 4.5,
+      "description": "High-quality sunflower seeds for your garden.",
+      "image": "/images/sunflower.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Tomato Seeds",
+      "category": "Vegetables",
+      "price": 3.99,
+      "ratings": 4.2,
+      "description": "Delicious and organic tomato seeds for your kitchen garden.",
+      "image": "/images/tomato.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Basil Seeds",
+      "category": "Herbs",
+      "price": 1.99,
+      "ratings": 4.8,
+      "description": "Fresh and aromatic basil seeds for culinary use.",
+      "image": "/images/basil.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Carrot Seeds",
+      "category": "Vegetables",
+      "price": 2.49,
+      "ratings": 4.0,
+      "description": "Sweet and crunchy carrot seeds for your vegetable garden.",
+      "image": "/images/carrot.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Lavender Seeds",
+      "category": "Herbs",
+      "price": 4.99,
+      "ratings": 4.7,
+      "description": "Fragrant lavender seeds to add a touch of aroma to your garden.",
+      "image": "/images/lavender.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Spinach Seeds",
+      "category": "Vegetables",
+      "price": 2.29,
+      "ratings": 4.3,
+      "description": "Nutrient-rich spinach seeds for a healthy harvest.",
+      "image": "/images/spinach.jpg"
+    },
+    
+    {
+      "id": 30,
+      "name": "Zinnia Seeds",
+      "category": "Flowers",
+      "price": 2.49,
+      "ratings": 4.0,
+      "description": "Colorful zinnia seeds to brighten up your garden.",
+      "image": "/images/zinnia.jpg"
+    },
+    {
+        "id": 31,
+        "name": "Cucumber Seeds",
+        "category": "Vegetables",
+        "price": 2.79,
+        "ratings": 4.5,
+        "description": "Fresh and crisp cucumber seeds for your garden.",
+        "image": "/images/cucumber.jpg"
+      },
+      {
+        "id": 32,
+        "name": "Rosemary Seeds",
+        "category": "Herbs",
+        "price": 3.49,
+        "ratings": 4.8,
+        "description": "Aromatic rosemary seeds to enhance your culinary experience.",
+        "image": "/images/rosemary.jpg"
+      },
+      {
+        "id": 33,
+        "name": "Pumpkin Seeds",
+        "category": "Vegetables",
+        "price": 2.99,
+        "ratings": 4.2,
+        "description": "Large and flavorful pumpkin seeds for your autumn harvest.",
+        "image": "/images/pumpkin.jpg"
+      },
+      {
+        "id": 34,
+        "name": "Marigold Seeds",
+        "category": "Flowers",
+        "price": 1.99,
+        "ratings": 4.7,
+        "description": "Bright and cheerful marigold seeds to adorn your garden.",
+        "image": "/images/marigold.jpg"
+      },
+      {
+        "id": 35,
+        "name": "Thyme Seeds",
+        "category": "Herbs",
+        "price": 4.29,
+        "ratings": 4.6,
+        "description": "Flavorful thyme seeds for culinary and medicinal uses.",
+        "image": "/images/thyme.jpg"
+      },
+      {
+        "id": 36,
+        "name": "Radish Seeds",
+        "category": "Vegetables",
+        "price": 1.79,
+        "ratings": 4.1,
+        "description": "Crunchy and vibrant radish seeds for a quick harvest.",
+        "image": "/images/radish.jpg"
+      },
+      
+      {
+        "id": 60,
+        "name": "Daisy Seeds",
+        "category": "Flowers",
+        "price": 2.99,
+        "ratings": 4.3,
+        "description": "Petite and charming daisy seeds for a delightful garden.",
+        "image": "/images/daisy.jpg"
+      },
+      {
+        "id": 61,
+        "name": "Bell Pepper Seeds",
+        "category": "Vegetables",
+        "price": 3.49,
+        "ratings": 4.6,
+        "description": "Colorful bell pepper seeds for a vibrant vegetable garden.",
+        "image": "/images/bell-pepper.jpg"
+      },
+      {
+        "id": 62,
+        "name": "Mint Seeds",
+        "category": "Herbs",
+        "price": 2.29,
+        "ratings": 4.4,
+        "description": "Refreshing mint seeds for teas, desserts, and more.",
+        "image": "/images/mint.jpg"
+      },
+      {
+        "id": 63,
+        "name": "Watermelon Seeds",
+        "category": "Fruits",
+        "price": 4.99,
+        "ratings": 4.5,
+        "description": "Juicy watermelon seeds for a sweet and refreshing harvest.",
+        "image": "/images/watermelon.jpg"
+      },
+      {
+        "id": 64,
+        "name": "Chamomile Seeds",
+        "category": "Herbs",
+        "price": 3.79,
+        "ratings": 4.8,
+        "description": "Calming chamomile seeds for herbal infusions and medicinal use.",
+        "image": "/images/chamomile.jpg"
+      },
+      {
+        "id": 65,
+        "name": "Cauliflower Seeds",
+        "category": "Vegetables",
+        "price": 2.99,
+        "ratings": 4.3,
+        "description": "Nutrient-rich cauliflower seeds for a healthy diet.",
+        "image": "/images/cauliflower.jpg"
+      },
+      {
+        "id": 66,
+        "name": "Chive Seeds",
+        "category": "Herbs",
+        "price": 1.89,
+        "ratings": 4.2,
+        "description": "Delicate chive seeds to add subtle onion flavor to your dishes.",
+        "image": "/images/chive.jpg"
+      },
+      
+      {
+        "id": 90,
+        "name": "Snapdragon Seeds",
+        "category": "Flowers",
+        "price": 3.29,
+        "ratings": 4.1,
+        "description": "Elegant snapdragon seeds for a sophisticated garden display.",
+        "image": "/images/snapdragon.jpg"
+      }
+    
+  ]

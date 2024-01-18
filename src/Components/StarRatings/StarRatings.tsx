@@ -9,12 +9,12 @@ const StarRatings = ({ ratings }:TRatings) => {
             <div className="flex">
 
                 <div className="flex text-yellow-600">
-                    <FaStar claSSName="" />
+                    <FaStar className="" />
                 </div>
-                <FaStar claSSName="" />
-                <FaStar claSSName="" />
-                <FaStar claSSName="" />
-                <FaStar claSSName="" />
+                <FaStar className="" />
+                <FaStar className="" />
+                <FaStar className="" />
+                <FaStar className="" />
             </div>
         );
     }
@@ -23,13 +23,13 @@ const StarRatings = ({ ratings }:TRatings) => {
             <div className="flex">
 
                 <div className="flex text-yellow-600">
-                    <FaStar claSSName="" />
-                    <FaStar claSSName="" />
+                    <FaStar className="" />
+                    <FaStar className="" />
                 </div>
                 
-                <FaStar claSSName="" />
-                <FaStar claSSName="" />
-                <FaStar claSSName="" />
+                <FaStar className="" />
+                <FaStar className="" />
+                <FaStar className="" />
             </div>
         );
     }
@@ -110,11 +110,11 @@ const StarRatings = ({ ratings }:TRatings) => {
         <div className="flex text-yellow-600">
 
             <div className="flex text-yellow-600">
-                <FaStar claSSName="" />
-                <FaStar claSSName="" />
-                <FaStar claSSName="" />
-                <FaStar claSSName="" />
-                <FaStar claSSName="" />
+                <FaStar className="" />
+                <FaStar className="" />
+                <FaStar className="" />
+                <FaStar className="" />
+                <FaStar className="" />
             </div>
 
         </div>
