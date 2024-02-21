@@ -6,7 +6,7 @@
       "price": 2.99,
       "ratings": 4.5,
       "description": "High-quality sunflower seeds for your garden.",
-      "image": "/images/sunflower.jpg"
+      "image": "https://images.unsplash.com/photo-1598112155206-e9bec09497b3?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 2,
@@ -15,7 +15,7 @@
       "price": 3.99,
       "ratings": 4.2,
       "description": "Delicious and organic tomato seeds for your kitchen garden.",
-      "image": "/images/tomato.jpg"
+      "image": "https://5.imimg.com/data5/SELLER/Default/2020/9/JF/FP/AA/38589522/organic-tomato-seeds-500x500.jpg"
     },
     {
       "id": 3,
@@ -24,7 +24,7 @@
       "price": 1.99,
       "ratings": 4.8,
       "description": "Fresh and aromatic basil seeds for culinary use.",
-      "image": "/images/basil.jpg"
+      "image": "https://5.imimg.com/data5/SELLER/Default/2023/1/DN/CX/EE/51967572/tulsi-seeds-for-faluda-500x500.jpg"
     },
     {
       "id": 4,
@@ -33,7 +33,7 @@
       "price": 2.49,
       "ratings": 4.0,
       "description": "Sweet and crunchy carrot seeds for your vegetable garden.",
-      "image": "/images/carrot.jpg"
+      "image": "https://5.imimg.com/data5/SELLER/Default/2023/4/303063755/NM/NE/HC/22972899/gaajar-carrot-seed-1000x1000.jpg"
     },
     {
       "id": 5,
@@ -42,7 +42,7 @@
       "price": 4.99,
       "ratings": 4.7,
       "description": "Fragrant lavender seeds to add a touch of aroma to your garden.",
-      "image": "/images/lavender.jpg"
+      "image": "https://i.etsystatic.com/16572143/r/il/4ff2ed/4318727461/il_794xN.4318727461_lq2e.jpg"
     },
     {
       "id": 6,
@@ -51,7 +51,7 @@
       "price": 2.29,
       "ratings": 4.3,
       "description": "Nutrient-rich spinach seeds for a healthy harvest.",
-      "image": "/images/spinach.jpg"
+      "image": "https://i.etsystatic.com/32141425/r/il/fcf802/4301037364/il_794xN.4301037364_wju0.jpg"
     },
     
     {
@@ -61,7 +61,7 @@
       "price": 2.49,
       "ratings": 4.0,
       "description": "Colorful zinnia seeds to brighten up your garden.",
-      "image": "/images/zinnia.jpg"
+      "image": "https://i.etsystatic.com/11825515/r/il/b977fc/5186579724/il_794xN.5186579724_k6dk.jpg"
     },
     {
         "id": 31,
@@ -70,7 +70,7 @@
         "price": 2.79,
         "ratings": 4.5,
         "description": "Fresh and crisp cucumber seeds for your garden.",
-        "image": "/images/cucumber.jpg"
+        "image": "https://i.etsystatic.com/30673657/r/il/14a13d/5262128526/il_794xN.5262128526_ied5.jpg"
       },
       {
         "id": 32,
@@ -79,7 +79,7 @@
         "price": 3.49,
         "ratings": 4.8,
         "description": "Aromatic rosemary seeds to enhance your culinary experience.",
-        "image": "/images/rosemary.jpg"
+        "image": "https://i.etsystatic.com/20705170/r/il/bdb0f7/5130383121/il_794xN.5130383121_b65z.jpg"
       },
       {
         "id": 33,
@@ -88,7 +88,7 @@
         "price": 2.99,
         "ratings": 4.2,
         "description": "Large and flavorful pumpkin seeds for your autumn harvest.",
-        "image": "/images/pumpkin.jpg"
+        "image": "https://i.etsystatic.com/19272169/r/il/337ab6/1836204404/il_794xN.1836204404_qvaa.jpg"
       },
       {
         "id": 34,
@@ -97,7 +97,7 @@
         "price": 1.99,
         "ratings": 4.7,
         "description": "Bright and cheerful marigold seeds to adorn your garden.",
-        "image": "/images/marigold.jpg"
+        "image": "https://i.etsystatic.com/27661773/r/il/ca15db/4909054890/il_794xN.4909054890_tnu9.jpg"
       },
       {
         "id": 35,
@@ -106,7 +106,7 @@
         "price": 4.29,
         "ratings": 4.6,
         "description": "Flavorful thyme seeds for culinary and medicinal uses.",
-        "image": "/images/thyme.jpg"
+        "image": "https://www.edenbrothers.com/cdn/shop/products/thyme-organic-shk-1.jpg?v=1653054615"
       },
       {
         "id": 36,
@@ -115,7 +115,7 @@
         "price": 1.79,
         "ratings": 4.1,
         "description": "Crunchy and vibrant radish seeds for a quick harvest.",
-        "image": "/images/radish.jpg"
+        "image": "https://www.edenbrothers.com/cdn/shop/products/radish-watermelon-1.jpg?v=1653500319"
       },
       
       {
@@ -125,7 +125,7 @@
         "price": 2.99,
         "ratings": 4.3,
         "description": "Petite and charming daisy seeds for a delightful garden.",
-        "image": "/images/daisy.jpg"
+        "image": "https://images.unsplash.com/photo-1660928821486-e7adbfdee7ce?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       },
       {
         "id": 61,
@@ -134,7 +134,7 @@
         "price": 3.49,
         "ratings": 4.6,
         "description": "Colorful bell pepper seeds for a vibrant vegetable garden.",
-        "image": "/images/bell-pepper.jpg"
+        "image": "https://i.etsystatic.com/18669781/r/il/0aaeae/3102190165/il_794xN.3102190165_903g.jpg"
       },
       {
         "id": 62,
@@ -143,7 +143,7 @@
         "price": 2.29,
         "ratings": 4.4,
         "description": "Refreshing mint seeds for teas, desserts, and more.",
-        "image": "/images/mint.jpg"
+        "image": "https://plus.unsplash.com/premium_photo-1678723983451-555c2c4e3b9a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       },
       {
         "id": 63,
@@ -152,7 +152,7 @@
         "price": 4.99,
         "ratings": 4.5,
         "description": "Juicy watermelon seeds for a sweet and refreshing harvest.",
-        "image": "/images/watermelon.jpg"
+        "image": "https://images.unsplash.com/photo-1688327437473-c6c2cf759697?q=80&w=1474&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       },
       {
         "id": 64,
@@ -161,7 +161,7 @@
         "price": 3.79,
         "ratings": 4.8,
         "description": "Calming chamomile seeds for herbal infusions and medicinal use.",
-        "image": "/images/chamomile.jpg"
+        "image": "https://images.unsplash.com/photo-1514733670139-4d87a1941d55?q=80&w=1478&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       },
       {
         "id": 65,
@@ -170,7 +170,7 @@
         "price": 2.99,
         "ratings": 4.3,
         "description": "Nutrient-rich cauliflower seeds for a healthy diet.",
-        "image": "/images/cauliflower.jpg"
+        "image": "https://images.unsplash.com/photo-1613743983303-b3e89f8a2b80?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       },
       {
         "id": 66,
@@ -179,7 +179,7 @@
         "price": 1.89,
         "ratings": 4.2,
         "description": "Delicate chive seeds to add subtle onion flavor to your dishes.",
-        "image": "/images/chive.jpg"
+        "image": "https://images.unsplash.com/photo-1546260357-734c06422ec6?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       },
       
       {
@@ -189,7 +189,7 @@
         "price": 3.29,
         "ratings": 4.1,
         "description": "Elegant snapdragon seeds for a sophisticated garden display.",
-        "image": "/images/snapdragon.jpg"
+        "image": "https://images.unsplash.com/photo-1619811647569-9bd357bacae5?q=80&w=1597&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     
   ]
